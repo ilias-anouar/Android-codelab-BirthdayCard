@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Happy Birthday</string>
+    <string name="happy_birthday_src">" wish u a nice and good life"</string>
+    <string name="happy_birthday_ilias">Happy birthday ilias,\n</string>
+    <string name="happy_birthday">Happy Birthday</string>
+    <string name="date">08/07/2001</string>
+</resources>
